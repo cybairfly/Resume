@@ -241,7 +241,6 @@
 		},
 		{
 			"name": "Apify",
-			"entity": "Apify",
 			"type": "Freelance",
 			"description": "Freelance development with focus on high volume data extraction (32 web crawlers)",
 			"keywords": [
