@@ -1,0 +1,381 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Vasek Codey Vlcek",
+      "label": "Automation software developer",
+      "image": "https://avatars.githubusercontent.com/u/18344357?v=4",
+      "email": "cyberfly@email.cz",
+      "phone": "+420 775 127 975",
+      "website": "https://cal.com/codey",
+      "url": "https://registry.jsonresume.org/cybairfly",
+      "summary": "Automation consultant and software developer, experienced in large-scale automation solutions. I have built tools to make automation more efficient and scalable, including a high level automation framework with a track record of more than 0.5 million executions to date. I can help you optimize and automate anything in a robust manner through scalable, powerful and reliable robots, crawlers and scrapers. Let us talk about what I can do for you!",
+      "location": {
+        "countryCode": "CZ",
+        "address": "Czech Republic"
+      },
+      "profiles": [
+        {
+          "url": "https://gitlab.com/cybairfly",
+          "username": "cybairfly",
+          "network": "gitlab"
+        },
+        {
+          "url": "https://github.com/cybairfly",
+          "username": "cybairfly",
+          "network": "github"
+        },
+        {
+          "url": "https://apify.com/tobey",
+          "username": "tobey",
+          "network": "codepen"
+        },
+        {
+          "url": "https://stackoverflow.com/users/1745212/vasek-codey-vlcek",
+          "username": "vasek-codey-vlcek",
+          "network": "stackoverflow"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "vasek-tobey-vlcek-8481485b",
+          "url": "https://www.linkedin.com/in/vasek-tobey-vlcek-8481485b"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Contract",
+        "position": "Automation Developer",
+        "startDate": "2021-10-31",
+        "summary": "Development of custom automation solutions and robots",
+        "highlights": [
+          "Development of a robust library for scalable process automation"
+        ],
+        "url": "https://www.npmjs.com/package/apify-robot"
+      },
+      {
+        "name": "Robot ICT",
+        "position": "Full-stack Developer",
+        "startDate": "2022-01-31",
+        "endDate": "2022-08-31",
+        "highlights": [
+          "Collaborated on developing a workflow designer execution interpreter"
+        ],
+        "summary": "Development of network automation product and internal process optimization",
+        "url": "https://www.robotict.com"
+      },
+      {
+        "name": "Apify",
+        "position": "Software Developer",
+        "startDate": "2018-08-31",
+        "endDate": "2021-10-31",
+        "highlights": [
+          "Created a high level automation library for efficient scaling of arbitrarily complex automation projects with robust and reliable execution and a track record of ~0.5 million process executions"
+        ],
+        "summary": "Development of large-scale automation solutions and web automation framework",
+        "url": "https://apify.com/tobey"
+      },
+      {
+        "name": "Amio.io",
+        "position": "Software Developer",
+        "startDate": "2018-02-28",
+        "endDate": "2018-07-31",
+        "highlights": [],
+        "summary": "Development of universal real-time messaging application and related integrations",
+        "url": "https://amio.io"
+      },
+      {
+        "name": "ICS - systémy s.r.o.",
+        "position": "Wireless Network Engineer",
+        "startDate": "2010-01-31",
+        "endDate": "2017-01-31",
+        "highlights": [
+          "Remote monitoring setup for tracking network status"
+        ],
+        "summary": "Design, maintenance and management of a wireless network for local ISP",
+        "url": "https://www.linkedin.com/company/4800055"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Software Development",
+        "level": "Advanced",
+        "keywords": [
+          "Node",
+          "ES/TS",
+          "HTML",
+          "REST",
+          "API",
+          "RPA",
+          "CSS",
+          "PHP",
+          "SQL",
+          "Git",
+          "RegEx",
+          "Docker",
+          "Puppeteer",
+          "Playwright",
+          "WebSockets",
+          "Automation",
+          "Browser automation"
+        ]
+      },
+      {
+        "name": "English Translation",
+        "level": "Advanced",
+        "keywords": [
+          "Mail",
+          "Legal",
+          "Patent",
+          "Travel",
+          "Tourism",
+          "Marketing",
+          "Construction",
+          "Translate Toolkit"
+        ]
+      },
+      {
+        "name": "Wireless Networking",
+        "level": "Intermediate",
+        "keywords": [
+          "ISP",
+          "Ubiquiti",
+          "MikroTik",
+          "RouterOS",
+          "The Dude"
+        ]
+      },
+      {
+        "name": "Computer Graphics",
+        "level": "Intermediate",
+        "keywords": [
+          "Blender 3D",
+          "Modeling",
+          "Texturing",
+          "Animation"
+        ]
+      },
+      {
+        "name": "Office Suite",
+        "level": "Beginner",
+        "keywords": [
+          "Spreadsheets",
+          "Automation",
+          "Formulas",
+          "Macros"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English (ICAO, TELC)",
+        "fluency": "Fluent"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Automation - Subscription Management",
+        "description": "Automation development on custom framework with focus on robustness at high volume",
+        "startDate": "2019-07-31",
+        "endDate": "2021-10-31",
+        "keywords": [
+          "Automation",
+          "Web",
+          "RPA"
+        ],
+        "highlights": [
+          "Project running on custom automation framework mentioned below (Robot)"
+        ],
+        "roles": [
+          "Project manager",
+          "Lead developer"
+        ],
+        "url": "https://www.loom.com/share/78e0142fc23b44b08eae4411a24538f2"
+      },
+      {
+        "name": "Automation - Insurance Payments",
+        "description": "Automation development on custom framework with focus on robustness at high volume",
+        "startDate": "2020-05-31",
+        "endDate": "2021-10-31",
+        "keywords": [
+          "Automation",
+          "Web",
+          "RPA"
+        ],
+        "highlights": [
+          "Project running on custom automation framework mentioned below (Robot)"
+        ],
+        "roles": [
+          "Project manager",
+          "Lead developer"
+        ],
+        "url": "https://vimeo.com/639591284"
+      },
+      {
+        "name": "Automation - Machinery Trading",
+        "description": "Custom mirror of a dynamic form and backend for the management of heavy machinery",
+        "startDate": "2020-07-03",
+        "endDate": "2021-07-02",
+        "keywords": [
+          "Automation",
+          "Front-end"
+        ],
+        "url": "https://www.loom.com/share/36c8bc20eb9a47b7ba1dfb10e13c5e1c"
+      },
+      {
+        "name": "Automation - 32 custom projects",
+        "description": "Freelance development with focus on high volume data extraction (web crawlers)",
+        "startDate": "2018-07-01",
+        "endDate": "2019-07-31",
+        "keywords": [
+          "Automation",
+          "Web Crawlers"
+        ],
+        "url": "https://apify.com/tobey"
+      },
+      {
+        "name": "Robot",
+        "description": "Automation framework for processing arbitrarily complex web automation projects",
+        "keywords": [
+          "Automation",
+          "Web",
+          "RPA"
+        ],
+        "roles": [
+          "Maintainer",
+          "Developer"
+        ],
+        "url": "https://gitlab.com/cybaerfly/apify-robot"
+      },
+      {
+        "name": "Human",
+        "description": "Automated simulation of human behavior in web browser for avoiding bot detection.",
+        "roles": [
+          "Maintainer",
+          "Developer"
+        ],
+        "url": "https://gitlab.com/cybaerfly/apify-human"
+      },
+      {
+        "name": "UplinQ",
+        "description": "Language education application (WIP)",
+        "keywords": [
+          "Languages",
+          "Education",
+          "Flashcards",
+          "Bookmarklet",
+          "Spaced repetition"
+        ],
+        "url": "http://uplinq.comehere.cz"
+      },
+      {
+        "name": "Etc.",
+        "description": "Other personal and education projects",
+        "highlights": [
+          "personal vocabulary manager",
+          "automated screenplay parser",
+          "responsive pricelist search",
+          "online gaming community web",
+          "instant translator on typing"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "FreeCodeCamp",
+        "area": "Computer Software Engineering",
+        "studyType": "Web Development Certification",
+        "startDate": "2017-12-31",
+        "endDate": "2018-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Akademie J.A. Komenskeho",
+        "area": "English Language and Literature, General",
+        "studyType": "B2",
+        "startDate": "2008-12-31",
+        "endDate": "2009-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "ISSTE Sokolov",
+        "area": "Information Technology",
+        "studyType": "",
+        "startDate": "2004-12-31",
+        "endDate": "2008-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "certificates": [
+      {
+        "name": "TELC B2 English Language",
+        "date": "2008-07-25",
+        "issuer": "TELC"
+      },
+      {
+        "name": "CCNA 1 Networking Basics",
+        "date": "2006-03-08",
+        "issuer": "Cisco"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Tech articles",
+        "publisher": "gHacks.net",
+        "releaseDate": "2010-04-21",
+        "url": "https://www.ghacks.net/author/tobey",
+        "summary": "Technical blog with more than 10k+ subscribers"
+      }
+    ],
+    "interests": [
+      {
+        "name": "English & linguistics"
+      },
+      {
+        "name": "Software development"
+      },
+      {
+        "name": "3D modeling & 2D graphics"
+      },
+      {
+        "name": "Aviation & air traffic control"
+      },
+      {
+        "name": "Gardening & hydroponics"
+      },
+      {
+        "name": "Butterfly breeding"
+      },
+      {
+        "name": "Nature & hiking"
+      },
+      {
+        "name": "Music (piano)"
+      },
+      {
+        "name": "Sports (biking, running, baseball, frisbee, inline-skating)"
+      }
+    ],
+    "awards": [
+      {
+        "title": "FEAST (First European Air Traffic Controller Selection Test)",
+        "date": "2009-02-15",
+        "awarder": "ANS CZ",
+        "summary": "Air Traffic Controller Selection Test Pass"
+      },
+      {
+        "title": "ICAO (International Civil Aviation Organization) - English",
+        "date": "2009-02-15",
+        "awarder": "ANS CZ",
+        "summary": "Aviation English Test Pass"
+      }
+    ],
+    "references": [],
+    "meta": {
+      "theme": "elegant",
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
