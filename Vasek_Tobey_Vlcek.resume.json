@@ -48,9 +48,9 @@
 			"startDate": "2021-10-31",
 			"summary": "Development of custom automation solutions and robots",
 			"highlights": [
-				"Development of a robust library for scalable process automation"
+				"Development of robust solutions for generic and scalable automation"
 			],
-			"url": "https://www.npmjs.com/package/apify-robot"
+			"url": "https://www.upwork.com/freelancers/~017e2ac9c16d17c3fc"
 		},
 		{
 			"name": "Robot ICT",
@@ -254,6 +254,30 @@
 			"url": "https://raw.githubusercontent.com/cybairfly/Resume/master/media/ApifyProjects.png"
 		},
 		{
+			"name": "Codex",
+			"type": "Freelance",
+			"description": "Collection of various tools and small utilities for coding and software automation",
+			"keywords": [
+				"Automation",
+				"Web",
+				"RPA"
+			],
+			"roles": [
+				"Maintainer",
+				"Developer"
+			],
+			"url": "https://www.npmjs.com/package/cyber-codex"
+		},
+		{
+			"name": "Human",
+			"description": "Automated simulation of human behavior in web browser for avoiding bot detection.",
+			"roles": [
+				"Maintainer",
+				"Developer"
+			],
+			"url": "https://gitlab.com/cybaerfly/apify-human"
+		},
+		{
 			"name": "Robot",
 			"description": "Automation framework for processing arbitrarily complex web automation projects",
 			"keywords": [
@@ -266,15 +290,6 @@
 				"Developer"
 			],
 			"url": "https://gitlab.com/cybaerfly/apify-robot"
-		},
-		{
-			"name": "Human",
-			"description": "Automated simulation of human behavior in web browser for avoiding bot detection.",
-			"roles": [
-				"Maintainer",
-				"Developer"
-			],
-			"url": "https://gitlab.com/cybaerfly/apify-human"
 		},
 		{
 			"name": "UplinQ",
